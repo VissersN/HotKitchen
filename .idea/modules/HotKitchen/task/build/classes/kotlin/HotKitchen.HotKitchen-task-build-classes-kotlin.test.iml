@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":HotKitchen-task-build-classes-kotlin:test" external.linked.project.path="$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin" external.root.project.path="$MODULE_DIR$/../../../../../../.." external.system.id="GRADLE" external.system.module.group="HotKitchen" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 17" allPlatforms="JVM [17]" useProjectSettings="false">
+        <additionalVisibleModuleNames>:HotKitchen-task-build-classes-kotlin:main</additionalVisibleModuleNames>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/build/classes/kotlin/test" />
+            <stringArg name="jvmTarget" arg="17" />
+            <stringArg name="moduleName" arg="HotKitchen-task-build-classes-kotlin_test" />
+            <stringArg name="apiVersion" arg="1.8" />
+            <stringArg name="languageVersion" arg="1.8" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/build/classes/java/main</arg>
+                <arg>$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/build/classes/kotlin/main</arg>
+                <arg>$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/build/libs/HotKitchen-task-build-classes-kotlin.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.8.20/1d909998b74b7873ac71bd04ce5f145f3d68bcfd/kotlin-gradle-plugin-api-1.8.20-gradle76.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.8.20/51c8efbe177ebcaa89c82d01663c60060a120dd2/kotlin-scripting-jvm-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.8.20/f19996e3a40658541fe2108c483fd3301c4a3416/kotlin-scripting-common-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.20/e72fc5e03ec6c064c678a6bd0d955c88d55b0c4a/kotlin-stdlib-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.20/5eddaaf234c8c49d03eebeb6a14feb7f90faca71/kotlin-stdlib-common-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/1.8.20/e4254b95d5b4abe86ba97afb6214877f9fc76a05/kotlin-gradle-plugin-annotations-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.8.20/d490644e215629f7f23f1c9ba5eb8bf96f4b8504/kotlin-native-utils-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-project-model/1.8.20/1c22ceafd66b8e1dcd9e9c662a1bbb276528d4c7/kotlin-project-model-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/1.8.20/6ab3d6c8e8d13c2748ecf0b74978fbd191def027/kotlin-tooling-core-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.8.20/c850771e723701f9d63dbcf641429c0f29290074/kotlin-script-runtime-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/1.8.20/845b590111343b11034db2a6febeac83102a8cbb/kotlin-util-io-1.8.20.jar</arg>
+                <arg>$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../HotKitchen/task/build/classes/kotlin/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="HotKitchen.HotKitchen-task-build-classes-kotlin.main" />
+    <orderEntry type="module" module-name="HotKitchen.util.main" />
+    <orderEntry type="module" module-name="HotKitchen.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.21" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-test-host-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-kotlinx-json-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-netty-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-core-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.17.1" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.36" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http2:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.alpn:alpn-api:1.1.3.v20160715" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-kqueue:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.8.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.typesafe:config:1.4.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.17.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.15" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-call-logging-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-websockets-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-server-host-common-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network-tls-certificates-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-cio-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network-tls-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-apache-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-test-dispatcher-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-kotlinx-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-classes-kqueue:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-classes-epoll:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-events-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.17.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.92.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websocket-serialization-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websockets-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network-jvm:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.15" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-jvm:2.3.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.6.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.fusesource.jansi:jansi:2.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.java.dev.jna:jna-platform:5.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.java.dev.jna:jna:5.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.bytebuddy:byte-buddy:1.10.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.bytebuddy:byte-buddy-agent:1.10.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-slf4j:1.6.4" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="HotKitchen.HotKitchen-task-build-classes-kotlin.main" />
+</module>
